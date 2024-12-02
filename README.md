@@ -1,1 +1,2 @@
-# Term-1 Programming Class: Homework
+# Term-1 Programming Class: Homeworks
+# Student: Sepanta Metanat 
